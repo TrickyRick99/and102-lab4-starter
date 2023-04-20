@@ -17,13 +17,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.screentogif.com/ArticleSearchTest.gif' title='Article Search' width='' alt='Video Walkthrough' />
-
-<img src="https://i.ibb.co/MRcbfyp/Article-Search-Test.gif" alt="Article-Search-Test" border="0"></a>
-
-<img src="https://i.ibb.co/MRcbfyp/Article-Search-Test.gif" alt="Article-Search-Test" border="0">
-
-<a href="https://ibb.co/Cnbq6pv"><img src="https://i.ibb.co/MRcbfyp/Article-Search-Test.gif" alt="Article-Search-Test" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/snake'>poem about snakes with rhyme</a><br />
+<img src="https://i.ibb.co/SfC6tR0/Article-Search-Test.gif" alt="Article-Search-Test" border="0">
 
 
 ## Notes
