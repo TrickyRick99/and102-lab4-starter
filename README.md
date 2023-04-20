@@ -23,6 +23,8 @@ Here's a walkthrough of implemented user stories:
 <img src="https://i.ibb.co/6ynYZVp/Simple-Counter-Test.gif" alt="Simple-Counter-Test" border="0">
 <img src="https://i.ibb.co/MRcbfyp/Article-Search-Test.gif" alt="Article-Search-Test" border="0">
 <img src="https://i.ibb.co/Cnbq6pv/Article-Search-Test.gif" alt="Article-Search-Test" border="0">
+<a href="https://ibb.co/Cnbq6pv"><img src="https://i.ibb.co/MRcbfyp/Article-Search-Test.gif" alt="Article-Search-Test" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/snake'>poem about snakes with rhyme</a><br />
+
 
 ## Notes
 
